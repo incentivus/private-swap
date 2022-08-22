@@ -113,5 +113,23 @@ Now Bobs creates a partial signature $s_b$ as before, he offsets the signature b
  - [What The heck is Schnorr?](https://medium.com/bitbees/what-the-heck-is-schnorr-52ef5dba289f)-Rajarshi Maitra  
  - [What are the advantages of Schnorr vs ECDSA?](https://bitcoin.stackexchange.com/questions/77234/what-are-the-advantages-of-schnorr-vs-ecdsa)   
  - [](https://download.wpsoftware.net/bitcoin/wizardry/mw-slides/2017-05-milan-meetup/slides.pdf)
+ - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-January/015614.html
+ - https://github.com/bitcoin/bips/blob/master/bip-0114.mediawiki
+ - https://github.com/bitcoin/bips/blob/master/bip-0341.mediawiki
+ - https://en.bitcoin.it/wiki/Multi-signature
+ - http://coders-errand.com/malleability-ecdsa-signatures/
+ - https://github.com/ElementsProject/scriptless-scripts
+ - https://medium.com/crypto-garage/adaptor-signature-schnorr-signature-and-ecdsa-da0663c2adc4
+ - https://medium.com/crypto-garage/adaptor-signature-on-schnorr-cross-chain-atomic-swaps-3f41c8fb221b
+ - https://bitcoinmagazine.com/culture/the-who-what-why-and-how-of-the-ongoing-transaction-malleability-attack-1444253640
+ - https://www.youtube.com/playlist?list=PLPrDsP88ifOVTEJf_jQGunDUS05M9GdIC
+ - https://bitcoinops.org/en/topics/adaptor-signatures/#:~:text=Adaptor%20signatures%20(also%20called%20signature,the%20adaptor%20reveals%20the%20signature.
+ - https://murchandamus.medium.com/2-of-3-multisig-inputs-using-pay-to-taproot-d5faf2312ba3
+ - https://eprint.iacr.org/2018/472
+ - https://bitcoin.stackexchange.com/questions/111169/what-is-an-adaptor-signature
+ - https://medium.com/@BR_Robin/basic-taproot-wallet-with-script-path-spend-c41f3f648a5a
+ - https://github.com/bitcoinops/taproot-workshop
+ - https://github.com/bitcoin/bips/blob/master/bip-0086.mediawiki
+ - https://bitcoinops.org/en/newsletters/2019/05/14/#overview-of-the-taproot--tapscript-proposed-bips
    
  ---
